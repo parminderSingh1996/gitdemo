@@ -12,7 +12,7 @@ change through remote
 
 jenkins-test
 jenkins -test2
-
+test change
 
 one More line of text.
 another conflict from remote
